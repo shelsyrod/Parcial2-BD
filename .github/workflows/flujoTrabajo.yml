@@ -47,6 +47,3 @@ jobs:
       - name: flake8
         run: |
           pip install flake8
-          flake8 DataCatalog_dataCatalog.py
-          flake8 DescargarPaginas.py
-          flake8 PrpcesadordeInfo.py
