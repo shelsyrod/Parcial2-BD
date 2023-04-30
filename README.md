@@ -38,7 +38,7 @@ d) Crear un Job que inserte la información en una base de datos MYSQL(usando aw
 Herramientas que utilizamos para el proyecto
 
 * [AWS](https://www.awsacademy.com/vforcesite/LMS_Login) - servicios en la nube
-* [Termianl]
+* [Terminal]
 * [Scripts en python]
 
 ## Fuentes de informacion 📖
@@ -54,8 +54,6 @@ Herramientas que utilizamos para el proyecto
 ![Workflow](https://github.com/shelsyrod/Parcial2-BD/blob/master/workflow.jpeg)
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Juan Carlos Castro Guevara**  - [Correo](juan.castro03correo.usa.edu.com)
 * **Shelsy Natalia Rodriguez Barajas**  - [Correo](shelsy.rodriguez01@correo.usa.edu.co)
