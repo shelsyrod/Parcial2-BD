@@ -1,6 +1,6 @@
 # Segundo Examen Parcial - Big Data
 
-En este repositorio se encuentra un proyecto, el cual corresponde a el parcial del segundo corte de la materia fundamentos de ML (Machine learning) en computacion avanzada, en este repositorio se encuentra, el dataset implemetado, el codigo en python en un cuaderno notebook (.ipynb), codigo fuentes del Programa LR en C++, y el documento (Readme.md) que presenta el contenido 
+En este repositorio se encuentra el proyecto correspondiente al segundo 
 
 ## Desarrollo ⚙️
 
@@ -29,22 +29,25 @@ d) Crear un Job que inserte la información en una base de datos MYSQL(usando aw
 
 - Activar la opción “job bookmarks” cuando se cree el job por interfaz. Esto permite que glue lleve una trazabilidad de los datos insertados y evita que se vuelvan a insertar datos ya insertados.
 
-
 ## Conclusiones 📋
 
-* Los coeficientes de C++ y los realizados con SKLearn en python son parecidos
-* Se aprendio a como hacer la implemetacion desde cero de una regresion lineal, desde cargar un archivo, hasta mostrar los datos
+* De esta manera se pueden automatizar procesos como la recoleccion, transformacion y carga de datos para hacerlo de manera mas precisa y en menor tiempo sin la necesidad de interaccion humana
 
 ## Construido con 🛠️
 
 Herramientas que utilizamos para el proyecto
 
-* [Colab](https://colab.research.google.com/drive/122yDvWKHggehFmqg5oM2CqJUsyJcTAjH#scrollTo=M2Z55G32TwQL) - Notebook
-* [Qt](https://qr.io/) - Framework
+* [AWS](https://www.awsacademy.com/vforcesite/LMS_Login) - servicios en la nube
+* [Termianl]
+* [Scripts en python]
 
 ## Fuentes de informacion 📖
 
-* https://medium.com/@lachlanmiller_52885/understanding-and-calculating-the-cost-function-for-linear-regression-39b8a3519fcb
+* https://aws.amazon.com/es/glue/
+* https://aws.amazon.com/es/premiumsupport/knowledge-center/glue-version2-external-python-libraries/
+* https://docs.aws.amazon.com/es_es/glue/latest/dg/console-crawlers.html
+
+## Resultados ✅
 
 ![Terminal](https://github.com/shelsyrod/Parcial2-BD/blob/master/TerminalMySql.png)
 
