@@ -1,6 +1,6 @@
 # Segundo Examen Parcial - Big Data
 
-En este repositorio se encuentra el proyecto correspondiente al segundo 
+En este repositorio se encuentra el proyecto correspondiente al segundo corte de la materia Big data, se encuentra el proceidmiento, las fuentes de informacion, erra mientas usadas y finalmente una muestra de los resultados
 
 ## Desarrollo ⚙️
 
