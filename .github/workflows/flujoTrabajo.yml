@@ -39,8 +39,8 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v1
         with:
           aws-access-key-id: ASIA4ZLRJDPJG2WA4NNW
-          aws_secret_access_key: VNmGD1MAqo6+07cB0hOY8PUeXpRnFL7aYAegPbl/
-          aws_session_token: FwoGZXIvYXdzEJD//////////wEaDA3dQXKYMrn18ISwGiLMAZhyL99IS9UeUo1GOtirJPoMTndB+fXawiTrXa+KTgwqX2p/cGgAP41SGDe4elsRvGbTUKE7fDEZ6/LZfaVDLUPUMmzz2idvQ1O36h2pAxt4xUM0ZrSFYitBAO1CCFaLDVzoXXli41ILQyEIfJR1jLPJ/xYX8qUm0sQslzVjdoEA8Aa4jftjpCnI3n0caduhDKZzCHl8kovnkt/PLkXhTv4NovLWxHuZVvivFbN9YMLSDoeCxJCPsOyWINGTJtYMIU4kaOH+rpUmzajwaCiso7iiBjItb1eJEEmnup6P2khwZpXDo5VNb+KaOdguaeSNOmmH8J4PttBz2vk1Z2Cryaor
+          aws-secret-access-key: VNmGD1MAqo6+07cB0hOY8PUeXpRnFL7aYAegPbl/
+          aws-session-token: FwoGZXIvYXdzEJD//////////wEaDA3dQXKYMrn18ISwGiLMAZhyL99IS9UeUo1GOtirJPoMTndB+fXawiTrXa+KTgwqX2p/cGgAP41SGDe4elsRvGbTUKE7fDEZ6/LZfaVDLUPUMmzz2idvQ1O36h2pAxt4xUM0ZrSFYitBAO1CCFaLDVzoXXli41ILQyEIfJR1jLPJ/xYX8qUm0sQslzVjdoEA8Aa4jftjpCnI3n0caduhDKZzCHl8kovnkt/PLkXhTv4NovLWxHuZVvivFbN9YMLSDoeCxJCPsOyWINGTJtYMIU4kaOH+rpUmzajwaCiso7iiBjItb1eJEEmnup6P2khwZpXDo5VNb+KaOdguaeSNOmmH8J4PttBz2vk1Z2Cryaor
           aws-region: us-east-1
           
           run:   pytest
