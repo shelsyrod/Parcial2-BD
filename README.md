@@ -1,3 +1,3 @@
 # Parcial2-BD
 
-TerminalMySql.png
+https://github.com/shelsyrod/Parcial2-BD/blob/master/TerminalMySql.png
